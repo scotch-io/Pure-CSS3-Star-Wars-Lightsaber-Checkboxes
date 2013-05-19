@@ -29,7 +29,7 @@ Just include the `lightsaber.css` file on the page you would like to have the li
 
 Where you want a checkbox, just paste this snippet:
 
-
+ 
 ```html
 <div class="lightsaber">
 	<label for="yoda-example"></label>
