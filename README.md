@@ -17,7 +17,7 @@ Please attribute.
 - On and Off Switch Colors
 - Optimized for Webkit. Cross-browser support. IE9+.
 - Governed under MIT Open Source License. Please attribute though.
-
+ 
 
 ## How to Use
 
