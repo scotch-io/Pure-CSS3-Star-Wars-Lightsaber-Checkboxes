@@ -5,6 +5,8 @@ Pure CSS3 Star Wars Lightsaber Checkboxes. This is a quick fun little project bu
 
 Please attribute.
 
+![Pure CSS3 Star Wars Lightsaber Checkbox](http://scotch.io/images/lightsabers.png "Demo Pic")
+
 ### [Demo](http://scotch.io/demos/pure-css3-star-wars-lightsaber-checkboxes) - [CodePen](http://codepen.io/ncerminara/pen/KzurJ) - [More Info](http://scotch.io)
 
 ## Features
