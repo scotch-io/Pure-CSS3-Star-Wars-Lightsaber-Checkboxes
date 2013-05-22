@@ -209,24 +209,24 @@ div {
 	to { box-shadow: 0 0 10px #7EC855; }
 }
 @-moz-keyframes yoda {
-	from { box-shadow: 0 0 10px #e51115; }
-	50% { box-shadow: 0 0 16px #e51115; }
-	to { box-shadow: 0 0 10px #e51115; }
+	from { box-shadow: 0 0 10px #7EC855; }
+	50% { box-shadow: 0 0 16px #7EC855; }
+	to { box-shadow: 0 0 10px #7EC855; }
 }
 @-webkit-keyframes yoda {
-	from { box-shadow: 0 0 10px #e51115; }
-	50% { box-shadow: 0 0 16px #e51115; }
-	to { box-shadow: 0 0 10px #e51115; }
+	from { box-shadow: 0 0 10px #7EC855; }
+	50% { box-shadow: 0 0 16px #7EC855; }
+	to { box-shadow: 0 0 10px #7EC855; }
 }
 @-o-keyframes yoda {
-	from { box-shadow: 0 0 10px #e51115; }
-	50% { box-shadow: 0 0 16px #e51115; }
-	to { box-shadow: 0 0 10px #e51115; }
+	from { box-shadow: 0 0 10px #7EC855; }
+	50% { box-shadow: 0 0 16px #7EC855; }
+	to { box-shadow: 0 0 10px #7EC855; }
 }
 @-ms-keyframes yoda {
-	from { box-shadow: 0 0 10px #e51115; }
-	50% { box-shadow: 0 0 16px #e51115; }
-	to { box-shadow: 0 0 10px #e51115; }
+	from { box-shadow: 0 0 10px #7EC855; }
+	50% { box-shadow: 0 0 16px #7EC855; }
+	to { box-shadow: 0 0 10px #7EC855; }
 }
 
 @keyframes vader {
@@ -261,24 +261,24 @@ div {
 	to { box-shadow: 0 0 10px #ca74dd; }
 }
 @-moz-keyframes windu {
-	from { box-shadow: 0 0 10px #e51115; }
-	50% { box-shadow: 0 0 16px #e51115; }
-	to { box-shadow: 0 0 10px #e51115; }
+	from { box-shadow: 0 0 10px #ca74dd; }
+	50% { box-shadow: 0 0 16px #ca74dd; }
+	to { box-shadow: 0 0 10px #ca74dd; }
 }
 @-webkit-keyframes windu {
-	from { box-shadow: 0 0 10px #e51115; }
-	50% { box-shadow: 0 0 16px #e51115; }
-	to { box-shadow: 0 0 10px #e51115; }
+	from { box-shadow: 0 0 10px #ca74dd; }
+	50% { box-shadow: 0 0 16px #ca74dd; }
+	to { box-shadow: 0 0 10px #ca74dd; }
 }
 @-o-keyframes windu {
-	from { box-shadow: 0 0 10px #e51115; }
-	50% { box-shadow: 0 0 16px #e51115; }
-	to { box-shadow: 0 0 10px #e51115; }
+	from { box-shadow: 0 0 10px #ca74dd; }
+	50% { box-shadow: 0 0 16px #ca74dd; }
+	to { box-shadow: 0 0 10px #ca74dd; }
 }
 @-ms-keyframes windu {
-	from { box-shadow: 0 0 10px #e51115; }
-	50% { box-shadow: 0 0 16px #e51115; }
-	to { box-shadow: 0 0 10px #e51115; }
+	from { box-shadow: 0 0 10px #ca74dd; }
+	50% { box-shadow: 0 0 16px #ca74dd; }
+	to { box-shadow: 0 0 10px #ca74dd; }
 }
 
 @keyframes obi-wan {
@@ -287,22 +287,22 @@ div {
 	to { box-shadow: 0 0 10px #3784d6; }
 }
 @-moz-keyframes obi-wan {
-	from { box-shadow: 0 0 10px #e51115; }
-	50% { box-shadow: 0 0 16px #e51115; }
-	to { box-shadow: 0 0 10px #e51115; }
+	from { box-shadow: 0 0 10px #3784d6; }
+	50% { box-shadow: 0 0 16px #3784d6; }
+	to { box-shadow: 0 0 10px #3784d6; }
 }
 @-webkit-keyframes obi-wan {
-	from { box-shadow: 0 0 10px #e51115; }
-	50% { box-shadow: 0 0 16px #e51115; }
-	to { box-shadow: 0 0 10px #e51115; }
+	from { box-shadow: 0 0 10px #3784d6; }
+	50% { box-shadow: 0 0 16px #3784d6; }
+	to { box-shadow: 0 0 10px #3784d6; }
 }
 @-o-keyframes obi-wan {
-	from { box-shadow: 0 0 10px #e51115; }
-	50% { box-shadow: 0 0 16px #e51115; }
-	to { box-shadow: 0 0 10px #e51115; }
+	from { box-shadow: 0 0 10px #3784d6; }
+	50% { box-shadow: 0 0 16px #3784d6; }
+	to { box-shadow: 0 0 10px #3784d6; }
 }
 @-ms-keyframes obi-wan {
-	from { box-shadow: 0 0 10px #e51115; }
-	50% { box-shadow: 0 0 16px #e51115; }
-	to { box-shadow: 0 0 10px #e51115; }
+	from { box-shadow: 0 0 10px #3784d6; }
+	50% { box-shadow: 0 0 16px #3784d6; }
+	to { box-shadow: 0 0 10px #3784d6; }
 }
