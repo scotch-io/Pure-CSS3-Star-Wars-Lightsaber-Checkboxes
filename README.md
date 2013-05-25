@@ -9,7 +9,7 @@ Special thanks to [Skateside](https://github.com/Skateside) for finding some cro
 
 ![Pure CSS3 Star Wars Lightsaber Checkbox](http://scotch.io/images/lightsabers.png "Demo Pic")
 
-### [Demo](http://scotch.io/demos/pure-css3-star-wars-lightsaber-checkboxes) - [CodePen](http://codepen.io/ncerminara/pen/KzurJ) - [More Info](http://scotch.io)
+### [Demo](http://scotch.io/demos/pure-css3-star-wars-lightsaber-checkboxes) - [CodePen](http://codepen.io/ncerminara/pen/KzurJ) - [CSSDeck](http://cssdeck.com/labs/pure-css3-star-wars-lightsaber-checkboxes) - [More Info](http://scotch.io)
 
 ## Features
 - No JavaScript
